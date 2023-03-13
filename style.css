@@ -4,6 +4,7 @@
     background-color: goldenrod;
     margin: 50px;
     border-radius: 10px;
+    position: relative;
 }
 #input{
     margin: 200px 140px;
@@ -11,4 +12,8 @@
     height: 30px;
     font-weight: bolder;
     
+}
+#submit{
+    margin: -225px 360px;
+    position: absolute;
 }
