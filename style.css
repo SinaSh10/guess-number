@@ -1,7 +1,14 @@
 #game{
-    height: 600px;
+    height: 400px;
     width: 480px;
     background-color: goldenrod;
     margin: 50px;
     border-radius: 10px;
+}
+#input{
+    margin: 200px 140px;
+    width: 200px;
+    height: 30px;
+    font-weight: bolder;
+    
 }
