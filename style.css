@@ -17,3 +17,8 @@
     margin: -225px 360px;
     position: absolute;
 }
+#textHelper{
+    position: absolute;
+    margin: -350px 170px;
+    text-align: center;
+}
