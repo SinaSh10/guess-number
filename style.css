@@ -22,3 +22,8 @@
     margin: -350px 170px;
     text-align: center;
 }
+#status{
+    position: absolute;
+    margin: -150px 200px;
+    text-align: center;
+}
