@@ -27,3 +27,13 @@
     margin: -150px 200px;
     text-align: center;
 }
+.win{
+    animation-name:shake ;
+    animation-duration: 300ms;
+    
+}
+@keyframes shake{
+    25%{transform: translate(4px);}
+    50%{transform: translate(-4px);}
+    75%{transform: translate(4px);}
+}
